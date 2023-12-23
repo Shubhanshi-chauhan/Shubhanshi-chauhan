@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shubhanshi-chauhan
-- 👀 I’m interested in Data.
-- 🌱 I’m currently learning Data analytics to get better insights from data and create meaningful insights.
+- 👋 Hi, I’m @Shubhanshi-chauhan.A dedicated data analyst with a passion for unraveling stories hidden within the numbers.
+- 👀 I’m interested in everything about Data.
+- 🌱 I’m currently learning Data analytics to get better insights from data and create meaningful insights.My goal is to leverage data-driven approaches to make informed decisions and drive business success.
 - 💞️ I’m looking to collaborate on Data analysis project.
   
 
