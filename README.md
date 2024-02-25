@@ -1,6 +1,5 @@
  👋 **Hi There**
 - 🕵🏻 Trying to find unraveling stories hidden within the numbers.
-- 🌱 I’m currently learning Data analytics to get better insights from data and create meaningful insights.
 - 💞️ **Deep Diving into:**
 
   🐉 Python
