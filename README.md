@@ -1,6 +1,6 @@
  👋 **Hi There**
 - 🕵🏻 Trying to find unraveling stories hidden within the numbers.
-  💞️ **Deep Diving into:**
+   💞️ **Deep Diving into:**
 
   🐉 Python
   🛢SQL
