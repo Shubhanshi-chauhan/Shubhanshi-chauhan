@@ -5,7 +5,7 @@
   🐉 Python
   🛢SQL
   📊PowerBI
-  📈 EXCEL
+  📈Advanced EXCEL
   
 **Do checkout my work**
 <!---
