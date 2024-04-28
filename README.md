@@ -1,5 +1,5 @@
  👋 **Hi There**
-- 🕵🏻 Trying to find unraveling stories hidden within the numbers.
+ 🕵🏻 Trying to find unraveling stories hidden within the numbers.
 - 💞️ **Deep Diving into:**
 
   🐉 Python
